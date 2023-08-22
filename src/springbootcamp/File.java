@@ -1,3 +1,5 @@
+package springbootcamp;
+
 public class File {
     // data-hiding : encapsulation
     private final String name;

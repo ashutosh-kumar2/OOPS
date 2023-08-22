@@ -1,3 +1,5 @@
+package springbootcamp;
+
 import java.util.Date;
 
 public class FileMetaData {
